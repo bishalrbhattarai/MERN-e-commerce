@@ -1,0 +1,12 @@
+.sortable{
+    cursor: pointer;
+}
+
+.ql-container{
+    height:250px !important;
+}
+
+.img-sm{
+    width: auto;
+    height: 50px;
+}
